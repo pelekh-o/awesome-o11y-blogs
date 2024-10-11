@@ -14,24 +14,30 @@ This resource list empowers IT professionals and developers of all experience le
 | [Arize](https://arize.com/blog/) | ML observability platform |
 | [AppDynamics](https://www.appdynamics.com/blog/) | Full-stack application performance management and IT operations analytics |
 | [Checkmk](https://checkmk.com/blog) | Tool for Infrastructure and Application Monitoring |
+| [Coralogix](https://coralogix.com/blog/) | Observability platform |
+| [Cribl](https://cribl.io/blog/) | Specializes in observability and data pipeline solutions |
 | [DataDog](https://www.datadoghq.com/blog/) | Monitoring and security platform |
 | [Decube](https://www.decube.io/blog) | Solution for data governance, and observability |
 | [Dynatrace](https://www.dynatrace.com/news/blog/) |  Software observability platform based on artificial intelligence (AI) and automation |
 | [Elastic](https://www.elastic.co/blog/) | Set of open-source tools for data ingestion, enrichment, storage, analysis, and visualization |
 | [Grafana](https://grafana.com/blog/) | Analytics and interactive visualization web application used for monitoring application performance |
 | [GrayLog](https://graylog.org/blog/) | Log management platform for collecting, indexing, and analyzing both structured and unstructured data |
+| [Groundcover ](https://www.groundcover.com/blog) | Reinventing APM with eBPF |
 | [Honeycomb](https://www.honeycomb.io/blog) | Observability solution designed for modern developer teams to understand the systems they build and operate |
 | [InfluxData](https://www.influxdata.com/blog/) | TSDB for storage and retrieval of time series data in fields such as operations monitoring, application metrics, Internet of Things sensor data, and real-time analytics |
 | [Instana](https://www.ibm.com/blog/category/instana/) | Observability platform that helps you analyze and troubleshoot microservices and containerized applications |
 | [Kentic](https://www.kentik.com/blog/) | Network observability platform |
+| [Logfie](https://pydantic.dev/articles) | A new type of observability platform built on the same belief as Pydantic — that the most powerful tools can be easy to use |
 | [LogicMonitor](https://www.logicmonitor.com/blog) | Cloud-based IT infrastructure monitoring and analytics platform |
+| [LogRhythm](https://logrhythm.com/blog/) | Provides cybersecurity solutions such as SIEM, SOAR, UEBA, and NDR |
 | [Logz.io](https://logz.io/blog/) | Full stack observability and security SaaS platform |
 | [Mezmo](https://www.mezmo.com/blog) | Cloud-based telemetry data pipeline |
 | [Middleware](https://middleware.io/blog/) | Cloud observability platform for infra and application monitoring |
 | [New Relic](https://newrelic.com/blog) | Cloud-based observability platform designed to provide real-time insights into the performance and behavior of digital systems |
 | [Observe, Inc.](https://www.observeinc.com/blog/) | Observability cloud solution |
-| [OpeneTelemetry](https://opentelemetry.io/blog/) | Collection of tools for telemetry data  |
-| [Pytroscope](https://pyroscope.io/blog/) | Grafana Pyroscope is an open source software project for aggregating continuous profiling data. |
+| [OpenObserve](https://openobserve.ai/blog) | Log search, infrastructure monitoring, and APM solution |
+| [OpenTelemetry](https://opentelemetry.io/blog/) | Collection of tools for telemetry data  |
+| [Pyroscope](https://pyroscope.io/blog/) | Grafana Pyroscope is an open source software project for aggregating continuous profiling data. |
 | [ScienceLogic](https://sciencelogic.com/blog) | AIOps and IT Infrastructure Monitoring Platform |
 | [SigNoz](https://signoz.io/blog/) | Observability platform native to OpenTelemetry |
 | [Splunk](https://www.splunk.com/en_us/blog) | Advanced and scalable form of software that indexes and searches for log files within a system and analyzes data for operational intelligence |
@@ -81,3 +87,5 @@ This resource list empowers IT professionals and developers of all experience le
 ---
 
 Don't miss our weekly curation of the most interesting articles [here](https://www.olehpelekh.com/categories/o11y-weekly/).
+
+Join our Telegram channel to receive automatic updates whenever new blog posts are published: [O11y New Blogs](https://t.me/+B9t2ss6gG44zODky).
